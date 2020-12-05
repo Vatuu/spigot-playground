@@ -1,0 +1,12 @@
+name: TestStuff
+version: ${project.version}
+main: dev.vatuu.test.TestStuff
+api-version: 1.16
+
+commands:
+  giveBackpack:
+  summonSam:
+  movesam:
+  createTestMap:
+  createTimerMap:
+
